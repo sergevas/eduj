@@ -1,1 +1,1 @@
-# EduJ
+# eduJ
