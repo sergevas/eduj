@@ -1,1 +1,1 @@
-# Lisp Study
+# EduJ
